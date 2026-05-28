@@ -1,52 +1,122 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02F76A&width=435&lines=Try...;Try%2C+Try...;Stay+Hard+!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02F76A&width=600&lines=Pentester+%7C+Web+App+Security;BSCP+%7C+eWPTXv3+%7C+eCPPTv3+%7C+CRTA;Try...+Try...+Stay+Hard!!)](https://git.io/typing-svg)
 
-#  About Me:
-Passionate about Pentesting.
-#  Programming Languages:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) <br><br>
+<h1 align="center">Hey, I'm b0ySie7e 👾</h1>
 
-#  Tools
-<br><br>
-<img src="https://gitlab.com/uploads/-/system/project/avatar/40090554/kali-burpsuite.png" alt="Burpsuite" width="50" />
-<img src="https://cdn.icon-icons.com/icons2/195/PNG/256/VirtualBox_23525.png" alt="virtualbox" width="50" />
-<img src="https://nmap.org/images/nmap-logo-256x256.png" alt="nmap" width="50" />
-<img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/wireshark_104082.png" alt="wireshark" width="50" />
-<img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="hydra" width="50" />
-<img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" alt="hashcat" width="50" />
-<img src="https://www.kali.org/tools/john/images/john-logo.svg" alt="john" width="50" />
-<img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" alt="maltego" width="50" />
-<img src="https://www.kali.org/tools/wfuzz/images/wfuzz-logo.svg" alt="wfuzz" width="50" />
-<img src="https://www.kali.org/tools/crackmapexec/images/crackmapexec-logo.svg" alt="crackmapexec" width="50" />
-<img src="https://www.kali.org/tools/crunch/images/crunch-logo.svg" alt="crunch" width="50" />
-<img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" alt="air-crack" width="50" />
-<img src="https://www.kali.org/tools/tcpdump/images/tcpdump-logo.svg" alt="tcpdumpk" width="50" />
-<img src="https://www.kali.org/tools/sherlock/images/sherlock-logo.svg" alt="sherlock" width="50" />
-<img src="https://www.kali.org/tools/responder/images/responder-logo.svg" alt="responder" width="50" />
-<img src="https://www.kali.org/tools/evil-winrm/images/evil-winrm-logo.svg" alt="evil-winrm" width="50" />
-<img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" alt="netcat" width="50" />
-<img src="https://www.kali.org/tools/powershell/images/powershell-logo.svg" alt="powershell" width="50" />
-<img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="metasploit" width="50" />
-<img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" alt="ffuf" width="50" />
-<img src="https://www.kali.org/tools/bloodhound/images/bloodhound-logo.svg" alt="bloodhound" width="50" />
-<img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" alt="gobuster" width="50" />
-<img src="https://www.kali.org/tools/mimikatz/images/mimikatz-logo.svg" alt="mimikats" width="50" />
-<img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="sqlmap" width="50" />
-<img src="https://www.kali.org/tools/beef-xss/images/beef-xss-logo.svg" alt="beef" width="50" />
-<img src="https://www.kali.org/tools/ghidra/images/ghidra-logo.svg" alt="ghidra" width="50" />
-<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/obsidian_alt_macos_bigsur_icon_189887.png" alt="obsidian" width="50" />
-<img src="https://avatars.githubusercontent.com/u/7937360?s=280&v=4" alt="x64dbg" width="50" />
+<p align="center">
+  <b>Pentester · Red Team · CTF Creator</b><br/>
+  Passionate about offensive security, breaking things ethically, and building knowledge.
+</p>
 
-<!--
-**b0ySie7e/b0ySie7e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://app.hackthebox.com/tu-perfil"><img src="https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
+  <a href="https://tryhackme.com/p/tu-perfil"><img src="https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🔐 Focused on **Web App Pentesting & Infrastructure Security**
+- 🎯 Specialized in **OWASP Top 10**, Active Directory attacks & EDR evasion
+- 🛠️ CTF machine creator at **DockerLabs**
+- 📄 Technical report writing with CVSS scoring & PoCs
+- 🌎 Based in Peru · Open to remote opportunities
+
+---
+
+## 🏅 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/BSCP-PortSwigger-%23FF6633?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/eWPTXv3-eLearnSecurity-%230057A8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/eCPPTv3-eLearnSecurity-%230057A8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CRTA-RedTeamAlliance-%23CC0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/eJPT-eLearnSecurity-%230057A8?style=for-the-badge"/>
+</p>
+
+---
+
+## 💻 Languages & Environments
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🛠️ Tools
+
+### 🌐 Web Application
+<p>
+<img src="https://gitlab.com/uploads/-/system/project/avatar/40090554/kali-burpsuite.png" width="45" title="Burp Suite"/>
+<img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" width="45" title="SQLMap"/>
+<img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" width="45" title="ffuf"/>
+<img src="https://www.kali.org/tools/wfuzz/images/wfuzz-logo.svg" width="45" title="Wfuzz"/>
+<img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" width="45" title="Gobuster"/>
+<img src="https://www.kali.org/tools/beef-xss/images/beef-xss-logo.svg" width="45" title="BeEF"/>
+</p>
+
+### 🔴 Post-Exploitation & AD
+<p>
+<img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="45" title="Metasploit"/>
+<img src="https://www.kali.org/tools/mimikatz/images/mimikatz-logo.svg" width="45" title="Mimikatz"/>
+<img src="https://www.kali.org/tools/bloodhound/images/bloodhound-logo.svg" width="45" title="BloodHound"/>
+<img src="https://www.kali.org/tools/evil-winrm/images/evil-winrm-logo.svg" width="45" title="Evil-WinRM"/>
+<img src="https://www.kali.org/tools/crackmapexec/images/crackmapexec-logo.svg" width="45" title="CrackMapExec"/>
+<img src="https://www.kali.org/tools/responder/images/responder-logo.svg" width="45" title="Responder"/>
+</p>
+
+### 🔍 Reconnaissance & Network
+<p>
+<img src="https://nmap.org/images/nmap-logo-256x256.png" width="45" title="Nmap"/>
+<img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/wireshark_104082.png" width="45" title="Wireshark"/>
+<img src="https://www.kali.org/tools/tcpdump/images/tcpdump-logo.svg" width="45" title="TCPDump"/>
+<img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" width="45" title="Maltego"/>
+<img src="https://www.kali.org/tools/sherlock/images/sherlock-logo.svg" width="45" title="Sherlock"/>
+<img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" width="45" title="Netcat"/>
+</p>
+
+### 🔑 Password Attacks
+<p>
+<img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" width="45" title="Hashcat"/>
+<img src="https://www.kali.org/tools/john/images/john-logo.svg" width="45" title="John the Ripper"/>
+<img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="45" title="Hydra"/>
+<img src="https://www.kali.org/tools/crunch/images/crunch-logo.svg" width="45" title="Crunch"/>
+<img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" width="45" title="Aircrack-ng"/>
+</p>
+
+### 🧩 Reverse Engineering & Forensics
+<p>
+<img src="https://www.kali.org/tools/ghidra/images/ghidra-logo.svg" width="45" title="Ghidra"/>
+<img src="https://avatars.githubusercontent.com/u/7937360?s=280&v=4" width="45" title="x64dbg"/>
+<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/obsidian_alt_macos_bigsur_icon_189887.png" width="45" title="Obsidian"/>
+<img src="https://cdn.icon-icons.com/icons2/195/PNG/256/VirtualBox_23525.png" width="45" title="VirtualBox"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Proyecto | Descripción | Skills |
+|----------|-------------|--------|
+| [Machine Matrioshka](https://github.com/b0ySie7e) | CTF con entorno Docker multi-contenedor, WordPress y encadenamiento de vulnerabilidades | Docker · Web Exploitation · PrivEsc |
+| [Machine Queuemedic](https://github.com/b0ySie7e) | CTF para práctica de explotación web y escalada de privilegios en DockerLabs | Docker · Web · Linux PrivEsc |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=b0ySie7e&theme=dark&show_icons=true&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0ySie7e&theme=dark&hide_border=true&layout=compact" height="150"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"The quieter you become, the more you can hear."</i>
+</p>
