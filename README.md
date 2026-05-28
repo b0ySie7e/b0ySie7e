@@ -26,13 +26,12 @@
 
 ## 🏅 Certifications
 
-<p>
-  <img src="https://img.shields.io/badge/BSCP-PortSwigger-%23FF6633?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/eWPTXv3-eLearnSecurity-%230057A8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/eCPPTv3-eLearnSecurity-%230057A8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CRTA-RedTeamAlliance-%23CC0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/eJPT-eLearnSecurity-%230057A8?style=for-the-badge"/>
-</p>
+![BSCP](https://img.shields.io/badge/-BSCP-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
+![eWPTXv3](https://img.shields.io/badge/-eWPTXv3-0057A8?style=for-the-badge&logo=elearnsecurity&logoColor=white)
+![eCPPTv3](https://img.shields.io/badge/-eCPPTv3-0057A8?style=for-the-badge&logo=elearnsecurity&logoColor=white)
+![CRTA](https://img.shields.io/badge/-CRTA-CC0000?style=for-the-badge&logo=redhat&logoColor=white)
+![eJPT](https://img.shields.io/badge/-eJPT-0057A8?style=for-the-badge&logo=elearnsecurity&logoColor=white)
+![CWES HTB](https://img.shields.io/badge/-CWES%20HTB-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 
 ---
 
@@ -111,8 +110,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=b0ySie7e&theme=dark&show_icons=true&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0ySie7e&theme=dark&hide_border=true&layout=compact" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=b0ySie7e&theme=react-dark&hide_border=true&color=02F76A&line=02F76A&point=ffffff" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=b0ySie7e&theme=dark&hide_border=true&fire=02F76A&ring=02F76A&currStreakLabel=02F76A" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0ySie7e&theme=dark&hide_border=true&layout=compact&langs_count=6" height="150"/>
 </p>
 
 ---
