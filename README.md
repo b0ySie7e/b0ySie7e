@@ -26,11 +26,11 @@
 
 ## 🏅 Certifications
 
-![BSCP](https://img.shields.io/badge/-BSCP-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
-![eWPTXv3](https://img.shields.io/badge/-eWPTXv3-0057A8?style=for-the-badge&logo=elearnsecurity&logoColor=white)
-![eCPPTv3](https://img.shields.io/badge/-eCPPTv3-0057A8?style=for-the-badge&logo=elearnsecurity&logoColor=white)
-![CRTA](https://img.shields.io/badge/-CRTA-CC0000?style=for-the-badge&logo=redhat&logoColor=white)
-![eJPT](https://img.shields.io/badge/-eJPT-0057A8?style=for-the-badge&logo=elearnsecurity&logoColor=white)
+![BSCP](https://img.shields.io/badge/-BSCP-FF6633?style=for-the-badge&logoColor=white)
+![eWPTXv3](https://img.shields.io/badge/-eWPTXv3-0057A8?style=for-the-badge&logoColor=white)
+![eCPPTv3](https://img.shields.io/badge/-eCPPTv3-0057A8?style=for-the-badge&logoColor=white)
+![CRTA](https://img.shields.io/badge/-CRTA-CC0000?style=for-the-badge&logoColor=white)
+![eJPT](https://img.shields.io/badge/-eJPT-0057A8?style=for-the-badge&logoColor=white)
 ![CWES HTB](https://img.shields.io/badge/-CWES%20HTB-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 
 ---
@@ -115,7 +115,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=b0ySie7e&theme=dark&hide_border=true&fire=02F76A&ring=02F76A&currStreakLabel=02F76A" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0ySie7e&theme=dark&hide_border=true&layout=compact&langs_count=6" height="150"/>
 </p>
 
 ---
