@@ -26,12 +26,12 @@
 
 ## 🏅 Certifications
 
-![BSCP](https://img.shields.io/badge/-BSCP-FF6633?style=for-the-badge&logoColor=white)
-![eWPTXv3](https://img.shields.io/badge/-eWPTXv3-0057A8?style=for-the-badge&logoColor=white)
-![eCPPTv3](https://img.shields.io/badge/-eCPPTv3-0057A8?style=for-the-badge&logoColor=white)
-![CRTA](https://img.shields.io/badge/-CRTA-CC0000?style=for-the-badge&logoColor=white)
-![eJPT](https://img.shields.io/badge/-eJPT-0057A8?style=for-the-badge&logoColor=white)
-![CWES HTB](https://img.shields.io/badge/-CWES%20HTB-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![BSCP](https://img.shields.io/static/v1?label=&message=BSCP&color=FF6633&style=for-the-badge&logoColor=white)
+![eWPTXv3](https://img.shields.io/static/v1?label=&message=eWPTXv3&color=0057A8&style=for-the-badge&logoColor=white)
+![eCPPTv3](https://img.shields.io/static/v1?label=&message=eCPPTv3&color=0057A8&style=for-the-badge&logoColor=white)
+![CRTA](https://img.shields.io/static/v1?label=&message=CRTA&color=CC0000&style=for-the-badge&logoColor=white)
+![eJPT](https://img.shields.io/static/v1?label=&message=eJPT&color=0057A8&style=for-the-badge&logoColor=white)
+![CWES HTB](https://img.shields.io/static/v1?label=&message=CWES%20HTB&color=9FEF00&style=for-the-badge&logo=hackthebox&logoColor=black)
 
 ---
 
